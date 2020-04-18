@@ -23,11 +23,11 @@ Top 3 is 'Western' got 2.721777 avaerage popularity per film.**
 
 But, Popularity growth rate Ranking: 'Western' > 'Science Fiction' > "'Adventure'"
 
-Average YoY growth rate by popularity of 'Adventure' is 33.8% (2010-2015)
+- Average YoY growth rate by popularity of 'Adventure' is 33.8% (2010-2015)
 
-Average YoY growth rate by popularity of 'Science Fiction' is 62.9% (2010-2015)
+- Average YoY growth rate by popularity of 'Science Fiction' is 62.9% (2010-2015)
 
-Average YoY growth rate by popularity of 'Western' is 113.4% (2010-2015)
+- Average YoY growth rate by popularity of 'Western' is 113.4% (2010-2015)
 
 ### 2.What kinds of properties are associated with movies that have high revenues?
 
