@@ -33,15 +33,15 @@ But, Popularity growth rate Ranking: 'Western' > 'Science Fiction' > "'Adventure
 
 high revenues is in positive correlation with "release_year", "vote_average", "vote_count", "budget", 'popularity','genres', 'director', 'production_companies' and 'cast'
 
-About detailed relation between revenue and genres:
+> About detailed relation between revenue and genres:
 
 The top 1 genre, Animation, are 3 times bigger as forteenth place genre, Crime.
 
-About detailed relation between revenue and directors:
+> About detailed relation between revenue and directors:
 
 the directors had filmed more movies are related to the high revenue per movie. The average revenue of a film made by directors who had filmed at least 7 films is 3 times as much as directors who had filmed under 2 films
 
-About detailed relation between revenue and production companies:
+> About detailed relation between revenue and production companies:
 
 Marvel Studios had earned most revenue, and it's twice as much as Eon production.
 
@@ -49,6 +49,6 @@ Top 10 ranking by revenue: 'Marvel Studios' > 'Lucasfilm' > 'DreamWorks Animatio
 
 Films were produced by muti companies usually made more one third revenue than films made by single company.**
 
-About detailed relation between revenue and casts:
+> About detailed relation between revenue and casts:
 
 the revenue of cast, Daisy Ridley's movie is almost 2 times as much as the average of the rest casts' on the top 10 list.
